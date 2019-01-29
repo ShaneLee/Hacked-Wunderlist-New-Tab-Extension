@@ -2,9 +2,9 @@
 A customised version of the Wunderlist new tab extension for Google Chrome.
 
 
-![Video Thumbnail](/Thumbnail_wunderlist.jpg)
+![[Video Thumbnail](/Thumbnail_wunderlist.jpg)](https://youtu.be/vyGDsV7i74o)
 
-[Youtube video associated with this repository](url)
+[Youtube video associated with this repository](https://youtu.be/vyGDsV7i74o)
 
 #### To install and use: 
         1. In Google Chrome, go to chrome://extensions/
