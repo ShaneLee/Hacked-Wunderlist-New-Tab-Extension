@@ -1,0 +1,34 @@
+.main {
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 15%;
+  text-align: center;
+}
+
+h4 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size:1.7em;
+  margin-bottom: 1em;
+  font-weight: normal;
+  color: #fff;
+  line-height: 1.5em;
+  text-align: center;
+}
+
+h6 {
+  font-family: "Lucida Grande", Tahoma;
+  font-size: 1.2em;
+  font-weight: lighter;
+  font-variant: normal;
+  text-transform: uppercase;
+  color: #fff;
+  margin-top: 10px;
+  letter-spacing: 0.4em;
+  text-align: center;
+}
+
+function deathCountdown() {
+  var deathDate = moment("2075-03-28");
+  var today = moment();
+  return deathDate.diff(today, 'days').toLocaleString('en');
+}
