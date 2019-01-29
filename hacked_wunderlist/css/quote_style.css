@@ -1,0 +1,21 @@
+h4 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 1.7em;
+  margin-bottom: 1em;
+  font-weight: normal;
+  color: #ffffff;
+  line-height: 1.5em;
+  text-align: center;
+}
+
+h6 {
+  font-family: "Lucida Grande", Tahoma;
+  font-size: 1.2em;
+  font-weight: ligher;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin-top: 10px;
+  line-height: 1.5em;
+  letter-spacing: 0.4em;
+  text-align: center;
+}
