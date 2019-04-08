@@ -1,11 +1,6 @@
 # Hacked-Wunderlist-New-Tab-Extension
 A customised version of the Wunderlist new tab extension for Google Chrome.
 
-<img src="/Thumbnail_wunderlist.jpg"
-     alt="Click to go to the video"
-     href="https://youtu.be/vyGDsV7i74o" />
-
-[Youtube video associated with this repository](https://youtu.be/vyGDsV7i74o)
 
 #### To install and use: 
         1. In Google Chrome, go to chrome://extensions/
